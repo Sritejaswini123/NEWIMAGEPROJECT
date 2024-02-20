@@ -1,0 +1,15 @@
+/* index.css */
+
+.components2-container {
+    text-align: center;
+
+  }
+  .components2-container h1 {
+    color: white;
+  }
+  .logo {
+    width: 150px; 
+    height: auto; 
+    margin: 10px; 
+  }
+  
